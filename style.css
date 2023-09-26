@@ -190,11 +190,20 @@ body{
         font-size: clamp(1em, 1.5em, 2em);
         text-align: center;
 }
+    .conteudo-principal-titulo{
+        text-align: center;
+    }
+    .conteudo-principal-imagem{
+        width: 60%;
+    }
     .conteudo-terciario{
         display: flex;
         flex-direction: column;
         align-content: center;
         align-items: center;
+    }
+    .video{
+        width: 80%;
     }
 }
 
